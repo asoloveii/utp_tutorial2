@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49596b6d-24f2-418a-afd1-3077f8afa5e0" name="Changes" comment="Initial project setup">
-      <change afterPath="$PROJECT_DIR$/src/Subtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="adding-adder-class" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,7 +51,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "adding-adder-class",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -82,6 +81,15 @@
       <workItem from="1728369700949" duration="327000" />
       <workItem from="1728371401812" duration="294000" />
     </task>
+    <task id="LOCAL-00001" summary="Implemented Subtractor class">
+      <option name="closed" value="true" />
+      <created>1728372832204</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728372832204</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,6 +121,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial project setup" />
     <MESSAGE value="Added adder class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added adder class" />
+    <MESSAGE value="Implemented Subtractor class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implemented Subtractor class" />
   </component>
 </project>
